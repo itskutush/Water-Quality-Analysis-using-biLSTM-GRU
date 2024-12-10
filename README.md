@@ -8,10 +8,10 @@ Yearly data has been downloaded from Central Pollution Control Board of India (2
 
 ## Features
 
-- **Model Architecture**: Neural networks : RNN,GRU,LSTM,Hybrid LSTM+GRU 
+- **Model Architecture**: Neural networks : RNN,GRU,LSTM,Hybrid biLSTM+GRU 
 - **Data Processing**: Handling of null values, replacing BDL values,feature extraction,Binary calssifcation
 - **Evaluation Metrics**: Accuracy,Precision,Recall,F1-Score
-- **Results**:Hybrid LSTM+GRU>GRU>LSTM>RNN
+- **Results**:Hybrid biLSTM+GRU>GRU>LSTM>RNN
 
 
 ## Installation
