@@ -1,4 +1,4 @@
-# Comparative Analysis:Water Quality Analysis of South Eastern Costal States of India
+# Comparative Analysis:Water Quality Analysis of South Eastern Costal States using biLSTM-GRU hybrid model
 
 We propose conducting a water quality analysis in the southern eastern coastal states of Andhra Pradesh, Tamil Nadu, and Odisha.This analysis will encompass a range of physicochemical and biological parameters such as pH, temperature, conductivity, salinity, turbidity, dissolved oxygen (DO), biochemical oxygen demand (BOD), and chemical oxygen demand (COD) to evaluate coastal water quality.
 
